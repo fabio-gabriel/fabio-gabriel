@@ -1,4 +1,4 @@
-### Olá, meu nome é Fábio Gabriel e aspiro ser programador
+### Helloo, my name is Fábio Gabriel and I love programming
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
 <div align="center">
