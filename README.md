@@ -1,4 +1,4 @@
-### Hello, my name is Fábio Gabriel and I love programming
+### Hello, my name is Fábio Gabriel and I am a web developer
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
 <div align="center">
