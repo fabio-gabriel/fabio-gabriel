@@ -1,5 +1,6 @@
 ### Hello, my name is Fábio Gabriel and I am a web developer
 
+<!---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
 <div align="center">
   <a href="https://github.com/fabio-gabriel">
@@ -16,3 +17,4 @@
 <div> 
   <a href="https://br.linkedin.com/in/f%C3%A1bio-gabriel-esteves-ivo-gomes-544476211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fabiogabrieleig@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+--->
