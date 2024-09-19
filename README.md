@@ -1,4 +1,4 @@
-### Hello, my name is Fábio Gabriel and I am a web developer
+### Hello, my name is Fábio Gabriel and I am a Software Engineer. This profile has a bunch of personal and university projects, not all finished. Feel free to have a look at whatever catches your eye.
 
 <!---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
